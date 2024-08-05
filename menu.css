@@ -1,0 +1,29 @@
+.titulomenu{
+    color: black;
+    text-size-adjust: 25px;
+    text-align: center;
+}
+
+/*começo da lista*/
+.navmenu .ulmenu {
+    list-style-type: none;
+    padding: 0;
+}
+/*meio da lista*/
+.navmenu .ulmenu .limenu {
+    display: inline;
+    margin: 0 15px;
+}
+/*final da lista*/
+.navmenu .ulmenu .limenu .amenu {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+/*menu salgado*/
+.menusalgado {
+    color: #33681eef;
+}
+/*menu doce*/
+.menudoce {
+    color: darkviolet;
+}

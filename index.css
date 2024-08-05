@@ -1,0 +1,85 @@
+/*corpo principal*/
+body {
+    background-color: #cabdbd;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*titulo empadinhas da vovo juju*/
+.tituloprincipal{
+    color: darkgreen;
+    text-align: center;
+    font-size: 100px;
+}
+/*vem comer bem,vem*/
+.Início{
+    color: darkolivegreen;
+    text-align: center;
+    font-size: 50px;
+}
+/*div do mapa*/
+.mapadecria{
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 500px;
+}
+/*o mapa de forma mais literal*/
+.iframeeee{
+    height: 100%;
+    width: 100%;
+}
+/*frase da vovo juju*/
+.frasefilofilosofica{
+    text-align: center;
+}
+/*nome da vovo juju*/
+.autorfilosofica{
+    text-align: center;
+}
+/*pricipal do cabeçalho*/
+header {
+    background-color: #c5ff5b;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+}
+/*começo da lista*/
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+/*meio da lista*/
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+/*final da lista*/
+nav ul li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+/*principais textos*/
+.inicio {
+    padding: 20px;
+}
+/*introdução*/
+.intro {
+    margin-bottom: 40px;
+}
+/*direitos*/
+.direitos {
+    background-color: #ff8888;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+/*insta*/
+.insta {
+    margin-bottom: 100px;
+}
