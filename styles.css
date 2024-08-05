@@ -1,0 +1,108 @@
+body {
+    background-color: #cabdbd;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tituloprincipal{
+    color: darkgreen;
+    text-align: center;
+    font-size: 100px;
+}
+.Início{
+    color: darkolivegreen;
+    text-align: center;
+    font-size: 50px;
+}
+.mapadecria{
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 500px;
+}
+.iframeeee{
+    height: 100%;
+    width: 100%;
+}
+.frasefilofilosofica{
+    text-align: center;
+}
+.autorfilosofica{
+    text-align: center;
+}
+header {
+    background-color: #c5ff5b;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+#dish-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#dish-list li {
+    background-color: #33681eef;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 3px solid #000000;
+    border-radius: 100px;
+}
+#dish-list2 {
+    list-style-type: none;
+    padding: 0;
+    
+}
+
+#dish-list2 li {
+    background-color: darkviolet;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 3px solid #000000;
+    border-radius: 100px;
+}
+footer {
+    background-color: #ff8888;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.insta {
+    margin-bottom: 100px;
+}
+.menusalgado {
+    color: #33681eef;
+}
+.menudoce {
+    color: darkviolet;
+}
